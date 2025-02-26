@@ -1,3 +1,7 @@
+> [!WARNING]
+> The Blue Brain Project concluded in December 2024, so development has ceased under the BlueBrain GitHub organization.
+> Future development will take place at: https://github.com/openbraininstitute/TMD
+
 # TMD
 
 [![Run all tox jobs using Python3](https://github.com/BlueBrain/TMD/actions/workflows/run-tox.yml/badge.svg)](https://github.com/BlueBrain/TMD/actions/workflows/run-tox.yml)
